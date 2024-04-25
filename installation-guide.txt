@@ -1,0 +1,13 @@
+PYTHON INSTALLATION GUIDE:
+Download 3.11.4  - IMPORTANT (DIFFERENT PYTHON VERSION MAY CAUSE ERROR)
+IF PYTHON ALREADY INSTALLED BUT DIFFERENT VERSION, KINDLY UNINSTALL TO AVOID CONFLICT.
+LINK OF DOWNLOAD - https://www.python.org/ftp/python/3.11.4/python-3.11.4-amd64.exe
+
+OPEN CMD IN PROJECT FOLDER:
+Link Guide:  
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.configserverfirewall.com%2Fwindows-10%2Fhow-to-open-folder-in-cmd%2F&psig=AOvVaw3JrBeI3NwqDvyUF6pgA52u&ust=1708416280780000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLD9lpv5toQDFQAAAAAdAAAAABAI
+
+Type pip install -r requirements.txt in cmd
+
+After installation, click app.bat twice to run application. Then open the server with the link like this: http://kapark.pythonanywhere.com/
+If encountered error, kindly contact me and send the error log.
